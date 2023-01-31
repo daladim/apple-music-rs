@@ -1,0 +1,16 @@
+[package]
+name = "apple-music"
+version = "0.1.0"
+edition = "2021"
+authors = ["daladim"]
+description = "Control the local instance of Apple Music/iTunes"
+repository = "https://github.com/daladim/apple-music-rs"
+documentation = "https://docs.rs/apple-music"
+license = "MIT"
+readme = "README.md"
+keywords = ["iTunes", "Apple Music", "API", "playlist", "tracks"]
+categories = ["api-bindings", "database", "multimedia"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
